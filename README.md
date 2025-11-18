@@ -3,23 +3,6 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>ShikkhaDex</title>
-	<style>
-		main
-		{
-			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-			font-size: 16px;
-			line-height: 1.5;
-			width: 960px;
-			margin: auto;
-		}
-		select
-		{
-			position: fixed;
-			bottom: 0;
-			right: 0;
-		}
-	</style>
 </head>
 <body>
 	<main><h1 id="index">ShikkhaDex:</h1>
